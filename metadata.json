@@ -1,0 +1,8 @@
+{
+  "name": "StreamPulse Control Center",
+  "description": "A high-performance video streaming management dashboard for self-hosted FFmpeg-based RTMP broadcasting. Features library management, playlist looping, multi-destination scheduling, and real-time monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
